@@ -234,6 +234,8 @@ p.note { display: none; }
     
     
     <h2>シアワセの証 by まいてゃ</h2>
+<h2><a href="https://torokoid.github.io/20250220_chiangrai/maitiya2.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
+    
     <audio controls>
         <source src="maitiya2.mp3" type="audio/mpeg">
         お使いのブラウザは audio タグをサポートしていません。
