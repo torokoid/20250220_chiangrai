@@ -245,7 +245,11 @@ p.note { display: none; }
     
 <h2><span class="yellow">まいてゃさんの配信サイトはこちら、↓画像クリックで飛びます</span></h2>
 <a href="https://maitiyaz.booth.pm/items/6118436" target="_blank"><img src="maitiya_001.png" alt="サンプル画像" width="900" /></a>
-    
+
+
+<h2><span class="yellow">メタバース空間「cluster」の入口も貼っておきますね、↓画像クリックで飛びます</span></h2>
+<a href="https://cluster.mu" target="_blank"><img src="cluster.png" alt="サンプル画像" width="900" /></a>
+
 
 
 <br><br><br>
